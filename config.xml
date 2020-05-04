@@ -2,10 +2,10 @@
 <widget id="com.terotero.minicart" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>minicart</name>
     <description>
-        A blank PhoneGap app.
+       Facile come una domenica mattina
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="support@terotero.com" href="http://minicart.it">
+        Terotero Minicart
     </author>
     <content src="index.html" />
     <access origin="*" />
