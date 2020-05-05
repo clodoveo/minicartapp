@@ -1,0 +1,12 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "minicart",
+  "short_name": "minicart",
+  "version": "com.terotero.minicartapp",
+  "description": "Facile come una domenica mattina",
+  "author": "Terotero Minicart",
+  "icons": [],
+  "start_url": "index.html",
+  "theme_color": "#000000"
+}
